@@ -33,3 +33,4 @@ chmod -R 700 maven38
 yum update -y
 #install git
 yum install git -y
+
